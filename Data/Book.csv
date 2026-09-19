@@ -1,0 +1,67 @@
+Create a Personal Monthly Budget in this worksheet. Helpful instructions on how to use this worksheet are in cells in this column. Arrow down to get started.,,,,,,,,,
+Title of this worksheet is in cell at right. Next instruction is in cell A4.,PERSONAL MONTHLY BUDGET,,,,,,,,
+,,,,,,,,,
+Projected Monthly Income label is in cell at right. Enter Income 1 in cell E4 and Extra Income in E5 to calculate Total monthly income in E6. Next instruction is in cell A6.,PROJECTED MONTHLY INCOME,Income 1,,"$4,300.00 ",,"PROJECTED BALANCE 
+(Projected income minus expenses)",,,"$3,405.00 "
+,,Extra income,,$300.00 ,,,,,
+"Projected Balance is auto calculated in cell J4, Actual Balance in J6, and Difference in J8. Next instruction is in cell A8.",,Total monthly income,,"$4,600.00 ",,"ACTUAL BALANCE 
+(Actual income minus expenses)",,,"$3,064.00 "
+,,,,,,,,,
+Actual Monthly Income label is in cell at right. Enter Income 1 in cell E8 and Extra Income in E9 to calculate Total monthly income in E10. Next instruction is in cell A12.,ACTUAL MONTHLY INCOME,Income 1,,"$4,000.00 ",,"DIFFERENCE 
+(Actual minus projected)",,,($341.00)
+,,Extra income,,$300.00 ,,,,,
+,,Total monthly income,,"$4,300.00 ",,,,,
+,,,,,,,,,
+Enter details in Housing table starting in cell at right and in Entertainment table starting in cell G12. Next instruction is in cell A25.,HOUSING,Projected Cost,Actual Cost,Difference,,ENTERTAINMENT,Projected Cost,Actual Cost,Difference
+,Mortgage or rent,"$1,000.00","$1,000.00",$0.00,,Night out,,,$0.00
+,Phone,$54.00,$100.00,-$46.00,,Music platforms,,,$0.00
+,Electricity,$44.00,$56.00,-$12.00,,Movies,,,$0.00
+,Gas,$22.00,$28.00,-$6.00,,Concerts,,,$0.00
+,Water and sewer,$8.00,$8.00,$0.00,,Sporting events,,,$0.00
+,Cable,$34.00,$34.00,$0.00,,Live theater,,,$0.00
+,Waste removal,$10.00,$10.00,$0.00,,Other,,,$0.00
+,Maintenance or repairs,$23.00,$0.00,$23.00,,Other,,,$0.00
+,Supplies,$0.00,$0.00,$0.00,,Other,,,$0.00
+,Other,$0.00,$0.00,$0.00,,Subtotal,,,$0.00
+,Subtotal,,,-$41.00,,,,,
+,,,,,,LOANS,Projected Cost,Actual Cost,Difference
+Enter details in Transportation table starting in cell at right and in Loans table starting in cell G24. Next instruction is in cell A35.,TRANSPORTATION,Projected Cost,Actual Cost,Difference,,Personal,,,$0.00
+,Vehicle payment,,,$0.00,,Student,,,$0.00
+,Bus/taxi fare,,,$0.00,,Credit card,,,$0.00
+,Insurance,,,$0.00,,Credit card,,,$0.00
+,Licensing,,,$0.00,,Credit card,,,$0.00
+,Fuel,,,$0.00,,Other,,,$0.00
+,Maintenance,,,$0.00,,Subtotal,,,$0.00
+,Other,,,$0.00,,,,,
+,Subtotal,,,$0.00,,TAXES,Projected Cost,Actual Cost,Difference
+,,,,,,Federal,,,$0.00
+Enter details in Insurance table starting in cell at right and in Taxes table starting in cell G33. Next instruction is in cell A42.,INSURANCE,Projected Cost,Actual Cost,Difference,,State,,,$0.00
+,Home,,,$0.00,,Local,,,$0.00
+,Health,,,$0.00,,Other,,,$0.00
+,Life,,,$0.00,,Subtotal,,,$0.00
+,Other,,,$0.00,,,,,
+,Subtotal,,,$0.00,,SAVINGS OR INVESTMENTS,Projected Cost,Actual Cost,Difference
+,,,,,,Retirement account,,,$0.00
+Enter details in Food table starting in cell at right and in Savings table starting in cell G40. Next instruction is in cell A48.,FOOD,Projected Cost,Actual Cost,Difference,,Investment account,,,$0.00
+,Groceries,,,$0.00,,Other,,,$0.00
+,Dining out,,,$0.00,,Subtotal,,,$0.00
+,Other,,,$0.00,,,,,
+,Subtotal,,,$0.00,,GIFTS AND DONATIONS,Projected Cost,Actual Cost,Difference
+,,,,,,Charity 1,,,$0.00
+Enter details in Pets table starting in cell at right and in Gifts table starting in cell G46. Next instruction is in cell A56.,PETS,Projected Cost,Actual Cost,Difference,,Charity 2,,,$0.00
+,Food,,,$0.00,,Charity 3,,,$0.00
+,Medical,,,$0.00,,Subtotal,,,$0.00
+,Grooming,,,$0.00,,,,,
+,Toys,,,$0.00,,LEGAL,Projected Cost,Actual Cost,Difference
+,Other,,,$0.00,,Attorney,,,$0.00
+,Subtotal,,,$0.00,,Alimony,,,$0.00
+,,,,,,Payments on lien or judgment,,,$0.00
+Enter details in Personal Care table starting in cell at right and in Legal table starting in cell G52. Next instruction is in cell A59.,PERSONAL CARE,Projected Cost,Actual Cost,Difference,,Other,,,$0.00
+,Medical,,,$0.00,,Subtotal,,,$0.00
+,Hair/nails,,,$0.00,,,,,
+"Total Projected Cost is auto calculated in cell J59, Total Actual Cost in J61, and Total Difference in J63.",Clothing,,,$0.00,,TOTAL PROJECTED COST,,,"$1,195.00 "
+,Dry cleaning,,,$0.00,,,,,
+,Health club,,,$0.00,,TOTAL ACTUAL COST,,,"$1,236.00 "
+,Organization dues or fees,,,$0.00,,,,,
+,Other,,,$0.00,,TOTAL DIFFERENCE,,,($41.00)
+,Subtotal,,,$0.00,,,,,
